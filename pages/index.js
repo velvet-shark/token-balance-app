@@ -254,7 +254,7 @@ export default function Home() {
                 Powered by QuickNode
               </a>
               <br />
-              <a href="https://www.github.com" className="text-blue-500">
+              <a href="https://github.com/velvet-shark/token-balance-app" className="text-blue-500">
                 [ Source code on GitHub ]
               </a>
             </div>
