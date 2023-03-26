@@ -112,14 +112,14 @@ export default function Home() {
             <div class="space-y-12">
               <div class="border-b border-gray-900/10 pb-12">
                 <div class="col-span-full">
-                  <label for="street-address" class="block text-l font-medium leading-6 text-gray-900">
+                  <label for="wallet-address" class="block text-l font-medium leading-6 text-gray-900">
                     Enter your address here 🎯
                   </label>
                   <div class="mt-2">
                     <input
                       onChange={(e) => setAddress(e.target.value)}
                       type="text"
-                      id="address"
+                      id="wallet-address"
                       size="50"
                       maxLength="50"
                       className="block rounded-md border-0 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 text-l leading-6 p-3 mb-2"
