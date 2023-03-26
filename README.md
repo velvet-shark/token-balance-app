@@ -11,3 +11,7 @@ The QuickNode Token and NFT API v2 bundle is a collection of APIs that allow you
 You need to add the Token and NFT API v2 bundle to your QuickNode account as an add-on to be able to use it.
 
 Details and documentation: https://marketplace.quicknode.com/add-on/token-and-nft-api-v2-bundle
+
+## Try it out
+
+You can try out the app here: https://showmethetokens.xyz/
