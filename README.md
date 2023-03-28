@@ -15,3 +15,8 @@ Details and documentation: https://marketplace.quicknode.com/add-on/token-and-nf
 ## Try it out
 
 You can try out the app here: https://showmethetokens.xyz/
+
+## Watch me build it
+
+I built this app live on YouTube. You can watch the video here:
+[![How to build a token balance app](how-to-build-a-token-balance-app.png)]([link to your URL](https://youtu.be/ReW6Giid43w))
